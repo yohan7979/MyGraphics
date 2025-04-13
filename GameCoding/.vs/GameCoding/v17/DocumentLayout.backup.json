@@ -1,48 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Dev\\GameCoding\\",
+  "WorkspaceRootPath": "E:\\Dev\\Graphics\\GameCoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\Default.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Default.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\Values.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Default.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Default.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Values.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Values.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\GameCoding\\GameCoding\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|E:\\Dev\\Graphics\\GameCoding\\GameCoding\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43603A36-E975-4884-8624-4917728F1F70}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\d3dcommon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -55,17 +52,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Default.hlsl",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\Default.hlsl",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Default.hlsl",
               "RelativeDocumentMoniker": "GameCoding\\Default.hlsl",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\Default.hlsl",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Default.hlsl",
               "RelativeToolTip": "GameCoding\\Default.hlsl",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
               "WhenOpened": "2025-01-01T13:25:24.676Z",
               "EditorCaption": ""
@@ -73,15 +70,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "winnt.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-25T11:38:53.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "d3dcommon.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\d3dcommon.h",
               "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\d3dcommon.h",
@@ -92,26 +80,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cpp",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\Game.cpp",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Game.cpp",
               "RelativeDocumentMoniker": "GameCoding\\Game.cpp",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\Game.cpp",
-              "RelativeToolTip": "GameCoding\\Game.cpp",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJUAAAAvAAAAAAAAAA==",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Game.cpp*",
+              "RelativeToolTip": "GameCoding\\Game.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-16T16:09:02.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Game.h",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\Game.h",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Game.h",
               "RelativeDocumentMoniker": "GameCoding\\Game.h",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\Game.h",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Game.h",
               "RelativeToolTip": "GameCoding\\Game.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T16:00:51.589Z"
+              "WhenOpened": "2024-12-16T16:00:51.589Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,81 +108,86 @@
               "Title": "DirectXMath.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXMath.h",
               "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\DirectXMath.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-16T15:49:20.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Types.h",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\Types.h",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Types.h",
               "RelativeDocumentMoniker": "GameCoding\\Types.h",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\Types.h",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Types.h",
               "RelativeToolTip": "GameCoding\\Types.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T15:29:04.546Z"
+              "WhenOpened": "2024-12-16T15:29:04.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Struct.h",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\Struct.h",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Struct.h",
               "RelativeDocumentMoniker": "GameCoding\\Struct.h",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\Struct.h",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Struct.h",
               "RelativeToolTip": "GameCoding\\Struct.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T15:28:57.346Z"
+              "WhenOpened": "2024-12-16T15:28:57.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Values.h",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\Values.h",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Values.h",
               "RelativeDocumentMoniker": "GameCoding\\Values.h",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\Values.h",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\Values.h",
               "RelativeToolTip": "GameCoding\\Values.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T15:28:51.565Z"
+              "WhenOpened": "2024-12-16T15:28:51.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "pch.cpp",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\pch.cpp",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\pch.cpp",
               "RelativeDocumentMoniker": "GameCoding\\pch.cpp",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\pch.cpp",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\pch.cpp",
               "RelativeToolTip": "GameCoding\\pch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-16T15:28:08.624Z"
+              "WhenOpened": "2024-12-16T15:28:08.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "pch.h",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\pch.h",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\pch.h",
               "RelativeDocumentMoniker": "GameCoding\\pch.h",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\pch.h",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\pch.h",
               "RelativeToolTip": "GameCoding\\pch.h",
               "ViewState": "AgIAAAQAAAAAAAAAAAAjwCIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T15:27:25.106Z"
+              "WhenOpened": "2024-12-16T15:27:25.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameCoding.cpp",
-              "DocumentMoniker": "E:\\Dev\\GameCoding\\GameCoding\\GameCoding.cpp",
+              "DocumentMoniker": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\GameCoding.cpp",
               "RelativeDocumentMoniker": "GameCoding\\GameCoding.cpp",
-              "ToolTip": "E:\\Dev\\GameCoding\\GameCoding\\GameCoding.cpp",
+              "ToolTip": "E:\\Dev\\Graphics\\GameCoding\\GameCoding\\GameCoding.cpp",
               "RelativeToolTip": "GameCoding\\GameCoding.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAjwDIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-16T15:25:25.962Z"
+              "WhenOpened": "2024-12-16T15:25:25.962Z",
+              "EditorCaption": ""
             }
           ]
         }

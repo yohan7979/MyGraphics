@@ -2,12 +2,12 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\Dev\GameCoding\Binaries\GameCoding.exe</FullPath>
+      <FullPath>E:\Dev\Graphics\GameCoding\Binaries\GameCoding.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>E:\Dev\GameCoding\Binaries\Default.cso</FullPath>
+      <FullPath>E:\Dev\Graphics\GameCoding\Binaries\Default.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
